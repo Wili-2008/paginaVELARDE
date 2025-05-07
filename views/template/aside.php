@@ -15,18 +15,33 @@
                     </div>
                 </div>
                 <div class="navbar-nav w-100">
-                    <a href="usuario" class="nav-item nav-link active"><i class="fa fa-tachometer-alt me-2"></i>Usuario</a>
+
+                <a href="" class="nav-item nav-link"><i class="fa fa-table me-2"></i>Pagina Principal</a>   
                     <div class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown"><i class="fa fa-laptop me-2"></i>Ubicación</a>
+                   
+                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown"><i class="fa fa-laptop me-2"></i>Categorías</a>
                         <div class="dropdown-menu bg-transparent border-0">
-                            <a href="../assets/typography.html" class="dropdown-item">Typography</a>
-                            <a href="../assets/element.html" class="dropdown-item">Other Elements</a>
+                            <a href="" class="dropdown-item">Electricidad</a>
+                            <a href="" class="dropdown-item">Pinturas</a>
+                            <a href="" class="dropdown-item">Herramientas Manuales</a>
+                            <a href="" class="dropdown-item">Materiales de Construcción</a>
+                            <a href="" class="dropdown-item">Seguridad y protección</a>
+                            <a href="" class="dropdown-item">jardinería</a>
+                            <a href="" class="dropdown-item">Herramientas Electricas</a>
                         </div>
+                        <a href="ubicación" class="nav-item nav-link active"><i class="fa fa-tachometer-alt me-2"></i>Ubicación</a>
                     </div>
-                    <a href="../assets/widget.html" class="nav-item nav-link"><i class="fa fa-th me-2"></i>Marcas</a>
-                    <a href="../assets/form.html" class="nav-item nav-link"><i class="fa fa-keyboard me-2"></i>Contacto</a>
-                    <a href="../assets/table.html" class="nav-item nav-link"><i class="fa fa-table me-2"></i>Tables</a>
-                    <a href="../assets/chart.html" class="nav-item nav-link"><i class="fa fa-chart-bar me-2"></i>Charts</a>
+                    <div class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown"><i class="fa fa-laptop me-2"></i>Marcas</a>
+                        <div class="dropdown-menu bg-transparent border-0">
+                            <a href="" class="dropdown-item">NORTON</a>
+                            <a href="" class="dropdown-item">CEMENTO CAMBA</a>
+                            <a href="" class="dropdown-item">CEMENTO WARNES</a>
+                          <a href="" class="dropdown-item">UYUSTOOLS</a>
+                        </div>
+
+                    <a href="contacto" class="nav-item nav-link"><i class="fa fa-keyboard me-2"></i>Contacto</a>
+                    
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown"><i class="far fa-file-alt me-2"></i>Pages</a>
                         <div class="dropdown-menu bg-transparent border-0">

@@ -8,12 +8,8 @@ include_once "template/aside.php";
 
 
 <?php
-echo("hola");
+echo("esta es mi numero 76003396");
 ?>
-
-
-
-
 <?php
 include_once "template/footer.php";
 ?>
